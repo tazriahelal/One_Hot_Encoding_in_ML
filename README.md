@@ -1,16 +1,15 @@
 # One_Hot_Encoding_in_ML
 One Hot Encoding in ML
 
-Dummy Variables & One Hot Encoding in ML📝
-Dummy Variables
+## Dummy Variables & One Hot Encoding in ML📝
+
+## Dummy Variables
 A dummy variable (aka, an indicator variable) is a numeric variable that represents categorical data, such as gender, race, political affiliation, etc.
 
 Technically, dummy variables are dichotomous, quantitative variables. Their range of values is small; they can take on only two quantitative values. As a practical matter, regression results are easiest to interpret when dummy variables are limited to two specific values, 1 or 0. Typically, 1 represents the presence of a qualitative attribute, and 0 represents the absence.
 Dummy variables are another way in which the flexibility of regression can be demonstrated. By incorporating dummy variables with a variety of functional forms, linear regression allows for sophisticated modeling of data.
 
-Want to know more on this topic in a descriptive way with example - Click this notebook
-📌Dummy Variables & One Hot Encoding in ML📌
-One Hot Encoding
+## One Hot Encoding
 One hot encoding is a technique used to represent categorical variables as numerical values in a machine learning model. The advantages of using one hot encoding include:
 
 It allows the use of categorical variables in models that require numerical input.
