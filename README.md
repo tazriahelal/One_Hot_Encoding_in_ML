@@ -20,12 +20,12 @@ it works very well unless your categorical variable takes on a large number of v
 
 One hot encoding creates new (binary) columns, indicating the presence of each possible value from the original data. Let's work through an example.
 
-
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F9494541%2F6854dbc9246c5bce007cb44d1ad57f2d%2Fonhotpic.PNG?generation=1681147435145406&alt=media)
 
 The values in the original data are Red, Yellow and Green. We create a separate column for each possible value. Wherever the original value was Red, we put a 1 in the Red column.
 
 Want to know more on this topic in a descriptive way with example - Click this notebook
-📌Dummy Variables & One Hot Encoding in ML📌
+# [📌Dummy Variables & One Hot Encoding in ML📌](https://www.kaggle.com/tazriahelal/dummy-variables-one-hot-encoding-in-ml)
 Ref:
 
 https://www.formpl.us/blog/nominal-ordinal-data
